@@ -9,7 +9,7 @@ A _PrevOnto_ (Preverb Ontology) 56 igekötő produktív jelentéseit és a jelen
    * jelentések: áttetsző háttér
 
 * Relációk (a gráfban élek):
-   * szinonímia (rokonértelműség): ha egy jelentésből több igekötőbe vezet él, akkor az igekötők az adott jelentésük alapján szinonimák
+   * szinonímia (rokonértelműség): ha egy jelentésből több igekötőbe vezet él, akkor az igekötők az adott jelentésük alapján szinonímak
    * antonímia (ellentétes jelentés): a jelentések közé húzott kétirányú nyíl jelzi
    * hipero- és hiponímia (hierarchikus viszony, az egyik jelentés magába foglalja a másikat): ennek jelzésére az egyirányú nyíl szolgál, amely a fölérendelt, általánosabb jelentésből az alárendelt, specifikusabb jelentés felé mutat
 
@@ -33,7 +33,7 @@ Kalivoda Ágnes (2021). Az igekötők produktív kapcsolódási mintái. _Argume
         DOI = {https://doi.org/10.34103/ARGUMENTUM/2021/4}
     }
 
-Kalivoda Ágnes (2021). _Igekötős szerkezetek a magyarban._ Doktori értekezés. Pázmány Péter Katolikus Egyetem, Bölcsészet- és Társadalomtudományi Kar, Nyelvtudományi Doktori Iskola. Budapest. _Megjelenés alatt._
+Kalivoda Ágnes (2021). [_Igekötős szerkezetek a magyarban._ Doktori értekezés.](https://github.com/kagnes/phd_thesis) Pázmány Péter Katolikus Egyetem, Bölcsészet- és Társadalomtudományi Kar, Nyelvtudományi Doktori Iskola. Budapest. _Megjelenés alatt._
 
 	@phdthesis{kalivoda2021,
 		address = {Budapest},
